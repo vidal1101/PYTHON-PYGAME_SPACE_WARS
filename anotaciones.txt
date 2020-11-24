@@ -1,0 +1,15 @@
+desarrolladores 
+---------------------------------------
+Dixiana Gomez
+Rodrigo Vidal 
+UTN , SEDE LIBERIA 
+--------------------------------------
+
+tener instalado python , 
+versiones 2.7 +
+descaragar e instalar pygame en la pagina https://www.pygame.org/download.shtml --version 1.9.6
+
+en la cmd de python --> import pygame 
+y verificar que no error , de lo contrario volver a instalar (mas que todo en windows)
+
+
